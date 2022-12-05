@@ -7,6 +7,6 @@ Daniel
 
 1 E
 
-menu site sobre o basquete
+menu site sobre uma loja de eletronicos
 
 # 3Trimestre
